@@ -2,7 +2,7 @@
 
 ## Kezdőlap
 
-![img](tszk_export.png)
+![img](god/hetfo/20190114/tszk_export.png)
 
 ---?color=black
 
