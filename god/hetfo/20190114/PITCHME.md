@@ -1,7 +1,7 @@
 ---
 
 
-@snap[north-east title]
+@snap[north-east]
 Tanuló Szakmai Közösség Diagnózis - Jelentés <br/>Kitöltők száma: 16 fő
 @snapend
 
