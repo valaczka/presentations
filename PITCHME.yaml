@@ -10,6 +10,7 @@
 published : true
 
 background : template/img/hatter.png
+background-size : cover
 
 #
 # Theme Setting
