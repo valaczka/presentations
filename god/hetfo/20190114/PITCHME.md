@@ -2,13 +2,13 @@
 
 ---
 
-@snap[north title] 
+@snap[north-east title] 
 Monitoring eredmények
 @snapend
 
 ### A koncepció alapvetően jó, de
-- félelmeket hozott a Kilátóval kapcsolatban
-- bizalmi-kapcsolati akadályok gátolnak minket
+- **félelmek**et hozott a **Kilátó**val kapcsolatban
+- **bizalmi-kapcsolati akadályok** gátolnak minket
 
 ---
 
