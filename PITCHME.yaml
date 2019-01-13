@@ -40,7 +40,7 @@ theme : simple
 #
 layout : center
 
-controls-layout : edges
+controls-layout : top-left
 
 #
 # Transition Setting
