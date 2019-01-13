@@ -4,7 +4,7 @@
 
 ---
 
-<canvas class="span-30" data-chart="line">
+<canvas width=500 data-chart="line">
 <!-- 
 {
  "data": {
