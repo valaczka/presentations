@@ -2,14 +2,18 @@
 
 ---
 
-## Hétfő
+@snap[north-east title] 
+Hétfő
+@snapend
 
 * Az 5. órában (11:25-től) házszentelés
-  * Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.
+  * @size[0.8em](Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.)
 
 ---
 
-## Kedd
+@snap[north-east title] 
+Kedd
+@snapend
         
 - 12:00-ig: az osztályfilmek leadási határideje Erikának
 - 11.b kőművesek és ácsok Budapesten
@@ -17,7 +21,9 @@
 
 ---
 
-## Szerda
+@snap[north-east title] 
+Szerda
+@snapend
 
 - 14:15-15:15 rövidített team ülés
 - **15:15-16:00 a teljes tantestület számára** találkozó a Kilátó szakembereivel az orientációs közös térben
