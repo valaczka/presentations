@@ -71,7 +71,8 @@
  "responsive": "true",
 "scales": {
 "gridLines": {
-"color":"white"
+"color":"white",
+"fontColor":"Red"
 }
 }
     }
