@@ -48,7 +48,6 @@
 
 ],
 
-    "label":"My first dataset","backgroundColor":["red", "green", "blue"]
    }
   ]
  }, 
