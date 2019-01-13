@@ -10,7 +10,7 @@
 published : true
 
 background : template/img/hatter.png
-background-opacity : 75
+background-opacity : 35
 
 #
 # Theme Setting
