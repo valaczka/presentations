@@ -1,8 +1,12 @@
 .title {
-
   font-size: 1.9em !important;
-  font-weight: bold !important;
+  font-weight: bolder !important;
   font-variant: small-caps !important;
+}
+
+.title-box {
+	background-color: "white";
+	padding: 10px 10px !important;
 }
 
 
