@@ -50,7 +50,9 @@
 
     "label":"%",
 "backgroundColor":[
-"DodgerBlue"
+"DodgerBlue",
+"LightBlue",
+"LightBlue"
 ]
    }
   ]
