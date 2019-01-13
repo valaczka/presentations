@@ -4,8 +4,8 @@
 
 ## Hétfő
 
-- 5. órában (11:25-től) házszentelés
-  - Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.
+* Az 5. órában (11:25-től) házszentelés
+  * Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.
 
 ---
 
