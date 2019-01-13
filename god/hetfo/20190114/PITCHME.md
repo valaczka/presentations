@@ -13,15 +13,42 @@
 <!-- 
 {
  "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
+  "labels": [
+	"Emberi kapacitás",
+	"Ön- és továbbképzés",
+	"Proaktivitás",
+	"Interperszonális Kapacitás",
+	"Bizalom és nyitottság",
+	"Reflektivitás",
+	"Szervezeti kapacitás",
+	"Tudásmenedzsment",
+	"Támogatás és felhatalmazás",
+	"Tanuló- és tanulásközpontú jövőkép",
+	"Hálózati kapacitás",
+	"Rendszergondolkodás",
+	"Hálózatépítés- és fenntartás"
+
+]
   "datasets": [
    {
-    "data":[65,59,80,81,56,55,40],
+    "data":[
+	63.75,
+	67.05,
+	59.72,
+	63.44,
+	75.00,
+	58.48,
+	54.69,
+	56.25,
+	54.69,
+	53.13,
+	53.13,
+	60.16,
+	48.44
+
+]
+
     "label":"My first dataset","backgroundColor":["red", "green", "blue"]
-   },
-   {
-    "data":[28,48,40,19,86,27,90],
-    "label":"My second dataset","backgroundColor":"rgba(220,120,120,.8)"
    }
   ]
  }, 
