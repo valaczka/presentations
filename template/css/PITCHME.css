@@ -1,15 +1,18 @@
 .title {
 
+  font-size: 1.5em !important;
+  font-weight: bolder !important;
+  font-variant: small-caps !important;
 }
 
 
-/* Intro Template Styles */
+/* Intro Template Styles
 
 .byline {
   letter-spacing: 0.1em;
 }
 
-/* Split-Screen Template Styles */
+ Split-Screen Template Styles 
 
 .split-screen-img {
   border-radius: 8% !important;
@@ -24,7 +27,6 @@
   background-color: white !important;
 }
 
-/* List-Content Template Styles */
 
 .list-content-concise li {
   margin:0 0 10px 0;
@@ -47,7 +49,6 @@
   list-style-type: circle !important;
 }
 
-/** Boxed-Text Template Styles ***/
 
 .demo-box-text-padding #boxed-text {
   padding-top: 1.95em;
@@ -59,11 +60,6 @@
   padding-bottom: 2.3em;
 }
 
-/** Image Template Styles ***/
-
-/** Sidebox Template Styles ***/
-
-/** Code-Presenting Template Styles ***/
 
 .hljs {
   background: none;
@@ -89,7 +85,6 @@
   }
 }
 
-/** Header-Footer Template Styles ***/
 
 .header-footer-list-shrink li {
   color: white;
@@ -97,9 +92,6 @@
   margin:0 0 20px 0;
 }
 
-/** Quotation Template Styles ***/
-
-/** Announcements Template Styles ***/
 
 .announce-big-news {
   font-size: 7em !important;
@@ -108,8 +100,6 @@
 .announce-coming-soon {
   font-size: 6.5em !important;
 }
-
-/** About Template Styles **/
 
 .about-team-pic img {
   width: 60%;
@@ -122,8 +112,6 @@
 .about-team-pic-center img {
   width: 70%;
 }
-
-/** Wrap-Up Template Styles **/
 
 .contact-name {
   font-size: 0.6em !important;
@@ -165,7 +153,6 @@
   color: white;
 }
 
-/** Final Slide Styles */
 
 .docslink {
   font-size: 0.5em !important;
@@ -182,7 +169,6 @@ div.docslink a:hover {
   font-weight: bold;
 }
 
-/** General Template Styles **/
 
 .template-note {
   letter-spacing: 0.1em;
@@ -202,7 +188,6 @@ div.docslink a:hover {
    color: black;
 }
 
-/** Reveal.js Core Override Styles **/
 
 .reveal ol li {
     margin-left: 0;
@@ -255,3 +240,5 @@ div.docslink a:hover {
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
+
+*/
