@@ -7,8 +7,8 @@
 ---?color=black
 
 
-@snap[north]
-#### Szia
+@snap[north-east]
+#### Tanuló Szakmai Közösség Diagnózis - Jelentés - OM: 039381 (Kitöltők száma: 16 fő)
 @snapend
 
 <canvas data-chart="horizontalBar">
