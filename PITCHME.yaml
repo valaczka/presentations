@@ -47,4 +47,4 @@ layout : center
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
 
-charts : true
+#charts : true
