@@ -46,8 +46,12 @@
 	60.16,
 	48.44
 
-]
+],
 
+    "label":"%",
+"backgroundColor":[
+"DodgerBlue"
+]
    }
   ]
  }, 
