@@ -9,7 +9,7 @@
 ## Szia
 @snapend
 
-<canvas data-chart="line">
+<canvas width="50%" height="75%" data-chart="line">
 <!-- 
 {
  "data": {
