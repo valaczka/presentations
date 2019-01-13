@@ -68,13 +68,7 @@
   ]
  }, 
  "options": {
- "responsive": "true",
-"scales": {
-"gridLines": {
-"color":"white",
-"fontColor":"Red"
-}
-}
+ "responsive": "true"
     }
  
 }
