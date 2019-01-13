@@ -6,7 +6,7 @@
 Monitoring eredmények
 @snapend
 
-## A koncepció alapvetően jó, de
+### A koncepció alapvetően jó, de
 - félelmeket hozott a Kilátóval kapcsolatban
 - bizalmi-kapcsolati akadályok gátolnak minket
 
