@@ -4,8 +4,6 @@
 
 ---
 
-wlekrjwlkerjl
-
 <canvas data-chart="line">
 <!-- 
 {
