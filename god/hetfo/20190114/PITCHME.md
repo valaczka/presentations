@@ -3,6 +3,24 @@
 ---
 
 @snap[north-east title] 
+Monitoring eredmények
+@snapend
+
+## A koncepció alapvetően jó, de
+- félelmeket hozott a Kilátóval kapcsolatban
+- bizalmi-kapcsolati akadályok gátolnak minket
+
+---
+
+@snap[north-east title] 
+Tanuló Szakmai Közösség Diagnózis - Jelentés <br/>Kitöltők száma: 16 fő 
+@snapend
+
+![img](god/hetfo/20190114/tszk_export.png)
+
+---
+
+@snap[north-east title] 
 Hétfő
 @snapend
 
@@ -30,17 +48,28 @@ Szerda
 - 16:00-17:15 részletesebb szakmai munka 
 
 ---
-    Január 17. csütörtök
-        8:00-tól szalagavató próba a templomban (végzős diákok, osztályfőnökök, szervezők)
-    Január 18. péntek
-        a végzősök számára nincs tanítás
-        15:00 szalagavató a templomban, majd koccintás (tanárok + végzős diákok) ott helyben a plébánián## 
+
+
+@snap[north-east title] 
+Csütörtök
+@snapend
+
+-       8:00-tól szalagavató próba 
 
 ---
 
 
 @snap[north-east title] 
-Tanuló Szakmai Közösség Diagnózis - Jelentés <br/>Kitöltők száma: 16 fő 
+Péntek
 @snapend
 
-![img](god/hetfo/20190114/tszk_export.png)
+-        a végzősök számára nincs tanítás
+-        15:00 szalagavató a templomban, majd koccintás a plébánián
+
+---
+
+### Félévzárás
+
+---
+
+## Szép hetet mindenkinek!
