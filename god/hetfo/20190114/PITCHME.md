@@ -6,7 +6,7 @@
 
 
 @snap[north]
-## Szia
+#### Szia
 @snapend
 
 <canvas data-chart="horizontalBar">
