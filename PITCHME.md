@@ -27,7 +27,7 @@
 <!-- 
 {
  "data": {
-  "labels": ["January"," February"," March"," April"," May"," June"," July"],
+  "labels": ["Január"," February"," March"," April"," May"," June"," July"],
   "datasets": [
    {
     "data":[65,59,80,81,56,55,40],
