@@ -17,7 +17,7 @@
   "datasets": [
    {
     "data":[65,59,80,81,56,55,40],
-    "label":"My first dataset","backgroundColor":"rgba(20,220,220,.8)"
+    "label":"My first dataset","backgroundColor":["red", "green", "blue"]
    },
    {
     "data":[28,48,40,19,86,27,90],
@@ -26,11 +26,7 @@
   ]
  }, 
  "options": {
- "responsive": "true",
-        "title": {
-            "display": true,
-            "text": "Custom Chart Title"
-        }
+ "responsive": "true"
     }
  
 }
