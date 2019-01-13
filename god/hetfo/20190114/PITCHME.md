@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north-east title] 
+@snap[north title] 
 Monitoring eredmények
 @snapend
 
@@ -20,7 +20,11 @@ Tanuló Szakmai Közösség Diagnózis - Jelentés <br/>Kitöltők száma: 16 f�
 
 ---
 
-@snap[north-east title] 
+### Mi következik mindebből?
+
+---
+
+@snap[north title] 
 Hétfő
 @snapend
 
@@ -29,7 +33,7 @@ Hétfő
 
 ---
 
-@snap[north-east title] 
+@snap[north title] 
 Kedd
 @snapend
         
@@ -39,7 +43,7 @@ Kedd
 
 ---
 
-@snap[north-east title] 
+@snap[north title] 
 Szerda
 @snapend
 
@@ -50,7 +54,7 @@ Szerda
 ---
 
 
-@snap[north-east title] 
+@snap[north title] 
 Csütörtök
 @snapend
 
@@ -59,7 +63,7 @@ Csütörtök
 ---
 
 
-@snap[north-east title] 
+@snap[north title] 
 Péntek
 @snapend
 
