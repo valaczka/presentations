@@ -27,12 +27,12 @@
  }, 
  "options": {
  "responsive": "true",
-        title: {
-            display: true,
-            text: 'Custom Chart Title'
+        "title": {
+            "display": true,
+            "text": "Custom Chart Title"
         }
     }
- }
+ 
 }
 -->
 </canvas>
