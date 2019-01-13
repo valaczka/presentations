@@ -61,14 +61,19 @@
 "LightYellow",
 "LightYellow",
 "Red",
-"LightRed",
-"LightRed"
+"LightCoral",
+"LightCoral"
 ]
    }
   ]
  }, 
  "options": {
- "responsive": "true"
+ "responsive": "true",
+"scales": {
+"gridLines": {
+"color":"white"
+}
+}
     }
  
 }
