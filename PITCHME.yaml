@@ -40,8 +40,6 @@ theme : simple
 #
 layout : center
 
-controls-layout : top-left
-
 #
 # Transition Setting
 # This template uses GitPitch Snap-Layouts extensively. For this
@@ -50,4 +48,4 @@ controls-layout : top-left
 #
 transition : none
 
-
+charts : true
