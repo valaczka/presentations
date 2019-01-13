@@ -4,7 +4,12 @@
 
 ---
 
-<canvas width=500 data-chart="line">
+
+@snap[north span-90]
+## Szia
+@snapend
+
+<canvas data-chart="line">
 <!-- 
 {
  "data": {
