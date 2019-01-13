@@ -28,7 +28,7 @@
 	"Rendszergondolkodás",
 	"Hálózatépítés- és fenntartás"
 
-]
+],
   "datasets": [
    {
     "data":[
@@ -46,7 +46,7 @@
 	60.16,
 	48.44
 
-]
+],
 
     "label":"My first dataset","backgroundColor":["red", "green", "blue"]
    }
