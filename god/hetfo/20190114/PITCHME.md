@@ -3,25 +3,27 @@
 ---
 
 ## Hétfő
-### 5. órában (11:25-től) házszentelés
-Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.
+
+- 5. órában (11:25-től) házszentelés
+  - Ne lepődjetek meg, ha az 5-6. óra idejében néhány percre bemegyünk minden terembe.
 
 ---
 
 ## Kedd
         
-### 12:00-ig: az osztályfilmek leadási határideje Erikának
-
-### 11.b kőművesek és ácsok Budapesten
-
-### **14:30-16:30 minden teamtag** számára orientációs műhely 
+- 12:00-ig: az osztályfilmek leadási határideje Erikának
+- 11.b kőművesek és ácsok Budapesten
+- **14:30-16:30 minden teamtag** számára orientációs műhely 
 
 ---
 
-    Január 16. szerda
-        14:15-15:15 rövidített team ülés az orientációs teameknek
-        15:15-16:00 a teljes tantestület számára találkozó a Kilátó szakembereivel az orientációs közös térben
-        16:00-17:15 részletesebb szakmai munka Kilátó szakembereivel együtt azokkal, akik közelebbről érintettek: vagyis minden orientációs kolléga + azok, akiket érdekel és szívesen foglalkoznak a Kilátó méréseivel, szakmai programjának hasznosításával,...stb.
+## Szerda
+
+- 14:15-15:15 rövidített team ülés
+- **15:15-16:00 a teljes tantestület számára** találkozó a Kilátó szakembereivel az orientációs közös térben
+- 16:00-17:15 részletesebb szakmai munka 
+
+---
     Január 17. csütörtök
         8:00-tól szalagavató próba a templomban (végzős diákok, osztályfőnökök, szervezők)
     Január 18. péntek
