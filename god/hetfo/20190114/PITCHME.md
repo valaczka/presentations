@@ -2,7 +2,7 @@
 
 ## Kezdőlap
 
----
+---?color=black
 
 
 @snap[north]
@@ -52,7 +52,10 @@
 "backgroundColor":[
 "DodgerBlue",
 "LightBlue",
-"LightBlue"
+"LightBlue",
+"ForestGreen",
+"LightGreen",
+"LightGreen"
 ]
    }
   ]
