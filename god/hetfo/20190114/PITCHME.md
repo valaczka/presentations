@@ -5,7 +5,7 @@
 ---
 
 
-@snap[north span-90]
+@snap[north]
 ## Szia
 @snapend
 
