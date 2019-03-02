@@ -3,7 +3,7 @@
 ---
 
 @snap[midpoint span-70]
-Eljött hozzám, mikor még bűnben éltem
+Eljött hozzám, mikor még bűnben éltem a a a a a a a a a a a
 felnyitotta a szemem
 szolgává lett, önmagát megalázta
 @snapend
