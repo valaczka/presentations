@@ -4,11 +4,12 @@ published : true
 #background-opacity : 35
 
 background-color: "#3465a4"
+
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : black
+theme : simple
 
 #
 # Theme-Override Setting
@@ -30,7 +31,7 @@ theme : black
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : left
+layout : center
 
 #
 # Transition Setting
