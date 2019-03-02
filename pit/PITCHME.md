@@ -1,21 +1,11 @@
-## 2019. január 21. PIT
-
-
-
-- Szalagavató köszönet
-
----?image=pit/kezek.png&size=auto 75%&opacity=100
+---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
 ---
 
-## Reflexió előző hét
-
-- Mire akartál különösen figyelni?
-- Hogyan sikerült?
-
----?image=pit/kezekfeher.png&size=auto 75%&opacity=100
-
----
+Áldoalésfk jladskf
+asdf asdjéfycv léadsjfoew flékadsf
+asldfky cvélkasdfa kfaéds flkadséf dsf
+aésdlfkjsaé fyv kjéalkdsfjad
 
 ## Visszajelzés Kilátó
 
