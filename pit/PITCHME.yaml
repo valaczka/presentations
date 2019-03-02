@@ -4,6 +4,7 @@ published : true
 #background-opacity : 35
 
 background-color: "#3465a4"
+background-size: contain
 
 #
 # Theme Setting
