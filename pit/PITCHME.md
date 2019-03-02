@@ -1,13 +1,12 @@
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
 ---
+@snap
 Light of the world you stepped out into darkness
-
 opened my eyes let me see
-
 Beauty that made this heart adore you
-
 hope of a life spent with You
+@snapend
 
 ---
 Here I am to worship
