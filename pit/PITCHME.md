@@ -73,22 +73,22 @@ karjaimba zártalak,<br/>
 örökre enyém vagy!
 
 ---
-Viruló réteken át,
+Viruló réteken át,<br/>
 hűs forrás felé vezetlek.<br/>
-Pásztorod vagyok,
+Pásztorod vagyok,<br/>
 elveszni senkit nem hagyok!<br/>
 Karom feléd tárom, kiárad áldásom!<br/>
-Nem rejtőzöm el,
+Nem rejtőzöm el,<br/>
 szívem a szívednek felel,<br/>
 Amikor úgy érzed, nyomaszt az élet!
 
 ---
 Nem taszítalak el, amikor vétkezel.<br/>
-Irgalmat lelsz a szívemben,
+Irgalmat lelsz a szívemben,<br/>
 örök feléd a hűségem,<br/>
-Amerre jársz, védlek,
+Amerre jársz, védlek,<br/>
 nyomodba lépek!<br/>
-Nem rejtőzöm el,
+Nem rejtőzöm el,<br/>
 szeretet-lángom átölel,<br/>
 Ne félj, ha éjben jársz,<br/>
 hidd, hogy a Fény vár rád!
@@ -105,7 +105,8 @@ In oceans deep my faith will stand
 ---
 And I will call upon Your name<br/>
 And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest in Your embrace<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
 For I am Yours and You are mine
 
 
@@ -118,7 +119,8 @@ You've never failed and You won't start now
 ---
 So I will call upon Your name<br/>
 And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest in Your embrace<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
 For I am Yours and You are mine
 
 ---
@@ -133,7 +135,8 @@ in the presence of my Saviour
 ---
 And I will call upon Your name<br/>
 And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest in Your embrace<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
 For I am Yours and You are mine
 
 
@@ -168,3 +171,22 @@ hisz a véred egyszer miértünk folyt!
 fogadd el hát egész életünk!<br/>
 Te nagyszerű és üdvözítő valóság.<br/>
 Kérünk, jöjj el közénk Jézusunk!
+
+
+---
+Kenyered és borod táplál engem,<br/>
+Te gyógyítod szívem, hogyha fáj.<br/>
+Maradj velem, úgy kérlek Jézus, maradj velem,<br/>
+Tied leszek, Neked élek már.
+
+---
+Amíg veled járok én az úton,<br/>
+Minden gondom messze-messze száll;<br/>
+Maradj velem, úgy kérlek Jézus, maradj velem,<br/>
+Tied leszek, Neked élek már.
+
+---
+Leborulva hálát adok Néked,<br/>
+Ajkamról most hála dala száll,<br/>
+Maradj velem, úgy kérlek Jézus, maradj velem,<br/>
+Tied leszek, Neked élek már.
