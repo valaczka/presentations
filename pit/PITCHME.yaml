@@ -3,9 +3,6 @@ published : true
 #background : template/img/hatter.png
 #background-opacity : 35
 
-background-color: "#3465a4"
-background-size: contain
-
 #
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
@@ -16,7 +13,7 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-#theme-override : css/PITCHME_PIT.css
+theme-override : pit/PIT.css
 
 #
 # Logo Setting
