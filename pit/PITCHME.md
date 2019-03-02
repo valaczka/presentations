@@ -112,10 +112,13 @@ I'll worship Your holy name.
 
 
 ---
-The sun comes up. It's a new day dawning.<br/>
+The sun comes up.<br/>
+ It's a new day dawning.<br/>
 It's time to sing your song again.<br/>
-Whatever may pass and whatever lies before me.<br/>
-Let me be singing when the evening comes.
+Whatever may pass and <br/>
+whatever lies before me.<br/>
+Let me be singing <br/>
+when the evening comes.
 
 
 ---
@@ -126,10 +129,14 @@ I'll worship Your holy name.
 
 
 ---
-You're rich in love and You're slow to anger.<br/>
-Your name is great and Your heart is kind.<br/>
-For all Your goodness I will keep on singing.<br/>
-Ten thousand reasons for my heart to find.
+You're rich in love and <br/>
+You're slow to anger.<br/>
+Your name is great and <br/>
+Your heart is kind.<br/>
+For all Your goodness <br/>
+I will keep on singing.<br/>
+Ten thousand reasons <br/>
+for my heart to find.
 
 
 ---
@@ -139,10 +146,13 @@ Sing like never before, o my soul,<br/>
 I'll worship Your holy name.
 
 ---
-And on that day when my strength is falling<br/>
-The end draws near and my time has come,<br/>
+And on that day when <br/>
+my strength is falling<br/>
+The end draws near and <br/>
+my time has come,<br/>
 still my soul sing Your praise unending<br/>
-ten thousand years and then forever more.
+ten thousand years <br/>
+and then forever more.
 
 ---
 Bless the Lord, o my soul, o my soul,<br/>
@@ -197,15 +207,19 @@ to see my sin upon that cross
 
 
 ---
-Uram Tehozzád futok, élő vízre szomjazom,<br/>
+Uram Tehozzád futok, <br/>
+élő vízre szomjazom,<br/>
 Közelséged, ó mily jó énnekem.<br/>
-Kérlek, ne menj el tőlem, légy mindig segítségem,<br/>
+Kérlek, ne menj el tőlem,<br/>
+ légy mindig segítségem,<br/>
 Úgy kívánlak Téged, Istenem.
 
 ---
-Én pedig szüntelen remélek, egyre jobban dicsérlek,<br/>
+Én pedig szüntelen remélek,<br/>
+ egyre jobban dicsérlek,<br/>
 Ajkam beszéli a Te igazságodat.<br/>
-Hadd legyen most a dalom jó illat oltárodon,<br/>
+Hadd legyen most a dalom<br/>
+ jó illat oltárodon,<br/>
 Nagyon szeretlek Téged, Jézusom.
 
 
