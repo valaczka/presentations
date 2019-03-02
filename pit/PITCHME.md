@@ -4,7 +4,9 @@
 
 - Szalagavató köszönet
 
----?image=pit/cimer.png
+---?image=pit/cimer.png&size=auto 75%&opacity=100
+
+---
 
 ## Reflexió előző hét
 
