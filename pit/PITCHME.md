@@ -2,8 +2,11 @@
 
 ---
 Light of the world you stepped out into darkness
+
 opened my eyes let me see
+
 Beauty that made this heart adore you
+
 hope of a life spent with You
 
 ---
