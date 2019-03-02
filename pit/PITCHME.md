@@ -43,6 +43,51 @@ felemeljük kezeinket,<br />
 így dicsérjük szent Neved.
 
 ---
-Ó Hatalmas, kezed nagy csodákat tesz,<br/>
+Ó Hatalmas,<br/>
+kezed nagy csodákat tesz,<br/>
 Veled senki nem ér fel,<br />
 Veled senki nem ér fel.
+
+
+---
+Indulj és menj, hirdesd szavam,<br/>
+népemhez küldelek én.<br/>
+Tövis és gaz, vér és panasz,<br/>
+meddig hallgassam még én.
+
+---
+Küldelek én, s megáldlak én,<br/>
+csak menj és hirdesd szavam!
+
+Tüzessé teszem ajkaidat,<br/>
+gyémánttá homlokodat.<br/>
+Népemnek őrévé rendellek én<br/>
+Lelkemet adom melléd.
+
+
+---
+Ne félj, mert megváltottalak,<br/>
+neveden szólítottalak,<br/>
+karjaimba zártalak,<br/>
+örökre enyém vagy!
+
+---
+Viruló réteken át,
+hűs forrás felé vezetlek.<br/>
+Pásztorod vagyok,
+elveszni senkit nem hagyok!<br/>
+Karom feléd tárom, kiárad áldásom!<br/>
+Nem rejtőzöm el,
+szívem a szívednek felel,<br/>
+Amikor úgy érzed, nyomaszt az élet!
+
+---
+Nem taszítalak el, amikor vétkezel.<br/>
+Irgalmat lelsz a szívemben,
+örök feléd a hűségem,<br/>
+Amerre jársz, védlek,
+nyomodba lépek!<br/>
+Nem rejtőzöm el,
+szeretet-lángom átölel,<br/>
+Ne félj, ha éjben jársz,<br/>
+hidd, hogy a Fény vár rád!
