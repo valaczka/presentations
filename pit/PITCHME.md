@@ -1,4 +1,8 @@
+---?image=cimer.png
+
 ## 2019. január 21. PIT
+
+
 
 - Szalagavató köszönet
 
