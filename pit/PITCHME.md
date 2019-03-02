@@ -59,6 +59,7 @@ meddig hallgassam még én.
 Küldelek én, s megáldlak én,<br/>
 csak menj és hirdesd szavam!
 
+---
 Tüzessé teszem ajkaidat,<br/>
 gyémánttá homlokodat.<br/>
 Népemnek őrévé rendellek én<br/>
@@ -91,3 +92,79 @@ Nem rejtőzöm el,
 szeretet-lángom átölel,<br/>
 Ne félj, ha éjben jársz,<br/>
 hidd, hogy a Fény vár rád!
+
+
+
+---
+You call me out upon the waters<br/>
+The great unknown where feet may fail<br/>
+And there I find You in the mystery<br/>
+In oceans deep my faith will stand
+
+
+---
+And I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest in Your embrace<br/>
+For I am Yours and You are mine
+
+
+---
+Your grace abounds in deepest waters<br/>
+Your sovereign hand will be my guide<br/>
+Where feet may fail and fear surrounds me<br/>
+You've never failed and You won't start now
+
+---
+So I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest in Your embrace<br/>
+For I am Yours and You are mine
+
+---
+Spirit lead me where my trust is without borders<br/>
+Let me walk upon the waters<br/>
+Wherever You would call me<br/>
+Take me deeper than my feet could ever wander<br/>
+And my faith will be made stronger<br/>
+in the presence of my Saviour
+
+
+---
+And I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest in Your embrace<br/>
+For I am Yours and You are mine
+
+
+
+---
+Tápláló szent kenyér, tápláló drága vér.<br/>
+Betölti szívemet a végtelen.<br/>
+Békémnek záloga, lelkemnek otthona.<br/>
+Formáld át életem, légy velem.
+
+
+---
+Áldott Istenünk, a szívünket fogadd el,<br/>
+felajánljuk munkánk a kenyérrel!<br/>
+Kérünk, fogadd el ezt a fehér kenyeret,<br/>
+hisz ezáltal leszünk eggyé Veled!
+
+---
+A verejtékes munka áldott gyümölcse,<br/>
+és sokmillió ember élete.<br/>
+Te egyszerű és köztünk élő valóság,<br/>
+így jössz közénk Te is, Jézusunk!
+
+---
+Áldott Istenünk, a kehelybe bort öntünk,<br/>
+felajánljuk Néked minden örömünk!<br/>
+Kérünk, fogadd el ezt a kehely fehér bort,<br/>
+hisz a véred egyszer miértünk folyt!
+
+---
+Átnyújtjuk most Neked szívünk, mindenünk,<br/>
+fogadd el hát egész életünk!<br/>
+Te nagyszerű és üdvözítő valóság.<br/>
+Kérünk, jöjj el közénk Jézusunk!
