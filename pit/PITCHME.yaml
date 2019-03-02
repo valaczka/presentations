@@ -1,0 +1,41 @@
+published : true
+
+#background : template/img/hatter.png
+#background-opacity : 35
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : simple
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+#theme-override : css/PITCHME_PIT.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+# footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Transition Setting
+# This template uses GitPitch Snap-Layouts extensively. For this
+# reason THIS VALUE SHOULD NOT BE MODIFIED. See:
+# https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
+#
+
+#charts : true
