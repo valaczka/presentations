@@ -4,7 +4,7 @@
 
 - Szalagavató köszönet
 
----?image=pit/cimer.png&size=auto 75%&opacity=100
+---?image=pit/kezek.png&size=auto 75%&opacity=100
 
 ---
 
@@ -12,6 +12,8 @@
 
 - Mire akartál különösen figyelni?
 - Hogyan sikerült?
+
+---?image=pit/kezekfeher.png&size=auto 75%&opacity=100
 
 ---
 
