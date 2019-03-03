@@ -2,27 +2,27 @@
 
 
 ---
-Meghívtál, hogy vízre lépjek,
-hol Nélküled elsüllyedek.
-Ebben megtalállak Téged,
+Meghívtál, hogy vízre lépjek,<br />
+hol Nélküled elsüllyedek.<br />
+Ebben megtalállak Téged,<br />
 a mélységben megtart hitem.
 
 
 ---
-Nagy Neved hívom én, és felnézek a vizek fölé.
-Ott látlak én, A lelkem Benned megpihen.
+Nagy Neved hívom én, és felnézek a vizek fölé.<br />
+Ott látlak én, A lelkem Benned megpihen.<br />
 Enyém vagy és én Tied.
 
 ---
-A mélységnél nagyobb kegyelmed,
-mely elvezet és tart engem.
-Ha elbuknék és nagyon félnék,
+A mélységnél nagyobb kegyelmed,<br />
+mely elvezet és tart engem.<br />
+Ha elbuknék és nagyon félnék,<br />
 Te nem hagysz el, nem inogsz meg.
 
 ---
-Lélek add, hogy Benned teljesen megbízzak,
-A vízen bátran Veled járjak, és bárhová hívsz, menjek.
-Vigyél tovább, mint a lábam tudna menni.
+Lélek add, hogy Benned teljesen megbízzak,<br />
+A vízen bátran Veled járjak, és bárhová hívsz, menjek.<br />
+Vigyél tovább, mint a lábam tudna menni.<br />
 Taníts teljes hittel járni, jelenlétedben élni.
 
 
