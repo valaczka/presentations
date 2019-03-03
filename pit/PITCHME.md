@@ -38,7 +38,7 @@ Vigyél tovább,<br />
 Taníts teljes hittel járni,<br />
  jelenlétedben élni.
 
- ---
+---
  Nagy Neved hívom én,<br />
   és felnézek a vizek fölé.<br />
  Ott látlak én,<br />
