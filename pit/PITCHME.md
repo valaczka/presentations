@@ -9,8 +9,10 @@ a mélységben megtart hitem.
 
 
 ---
-Nagy Neved hívom én, és felnézek a vizek fölé.<br />
-Ott látlak én, A lelkem Benned megpihen.<br />
+Nagy Neved hívom én,<br />
+ és felnézek a vizek fölé.<br />
+Ott látlak én,<br />
+ A lelkem Benned megpihen.<br />
 Enyém vagy és én Tied.
 
 ---
@@ -20,10 +22,28 @@ Ha elbuknék és nagyon félnék,<br />
 Te nem hagysz el, nem inogsz meg.
 
 ---
-Lélek add, hogy Benned teljesen megbízzak,<br />
-A vízen bátran Veled járjak, és bárhová hívsz, menjek.<br />
-Vigyél tovább, mint a lábam tudna menni.<br />
-Taníts teljes hittel járni, jelenlétedben élni.
+Nagy Neved hívom én,<br />
+ és felnézek a vizek fölé.<br />
+Ott látlak én,<br />
+ A lelkem Benned megpihen.<br />
+Enyém vagy és én Tied.
+
+---
+Lélek add, hogy Benned<br />
+ teljesen megbízzak,<br />
+A vízen bátran Veled járjak,<br />
+ és bárhová hívsz, menjek.<br />
+Vigyél tovább,<br />
+ mint a lábam tudna menni.<br />
+Taníts teljes hittel járni,<br />
+ jelenlétedben élni.
+
+ ---
+ Nagy Neved hívom én,<br />
+  és felnézek a vizek fölé.<br />
+ Ott látlak én,<br />
+  A lelkem Benned megpihen.<br />
+ Enyém vagy és én Tied.
 
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
@@ -191,11 +211,23 @@ I'll never know how much it cost<br/>
 to see my sin upon that cross
 
 
+---
+Here I am to worship<br/>
+Here I am to bow down<br/>
+Here I am to say that you're my God<br/>
+You're altogether lovely<br/>
+Altogether worthy<br/>
+Altogether wonderful to me
+
+
+
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
+---
 Szent vagy, szent vagy, szent vagy,<br/>
 Mindenség Ura, Istene!<br/>
-Dicsőséged betölti a mennyet és a földet.<br/>
+Dicsőséged betölti<br/>
+ a mennyet és a földet.<br/>
 Hozsanna a magasságban!<br/>
 Áldott, aki jön az Úr nevében,<br/>
 Hozsanna a magasságban!
@@ -203,10 +235,12 @@ Hozsanna a magasságban!
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
 
-Isten Báránya, te elveszed a világ bűneit,<br/>
+Isten Báránya, <br/>
+te elveszed a világ bűneit,<br/>
 Irgalmazz, irgalmazz nekünk!
 
-Isten Báránya, te elveszed a világ bűneit,<br/>
+Isten Báránya, <br/>
+te elveszed a világ bűneit,<br/>
 Adj nekünk, adj nekünk békét!
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
@@ -256,6 +290,9 @@ Népemnek őrévé rendellek én<br/>
 Lelkemet adom melléd.
 
 
+---
+Küldelek én, s megáldlak én,<br/>
+csak menj és hirdesd szavam!
 
 
 
