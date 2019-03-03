@@ -2,62 +2,51 @@
 
 
 ---
-You call me out upon the waters<br/>
-The great unknown where feet may fail<br/>
-And there I find You in the mystery<br/>
-In oceans deep my faith will stand
+Meghívtál, hogy vízre lépjek,
+hol Nélküled elsüllyedek.
+Ebben megtalállak Téged,
+a mélységben megtart hitem.
 
 
 ---
-And I will call upon Your name<br/>
-And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest<br/>
- in Your embrace<br/>
-For I am Yours and You are mine
+Nagy Neved hívom én, és felnézek a vizek fölé.
+Ott látlak én, A lelkem Benned megpihen.
+Enyém vagy és én Tied.
+
+---
+A mélységnél nagyobb kegyelmed,
+mely elvezet és tart engem.
+Ha elbuknék és nagyon félnék,
+Te nem hagysz el, nem inogsz meg.
+
+---
+Lélek add, hogy Benned teljesen megbízzak,
+A vízen bátran Veled járjak, és bárhová hívsz, menjek.
+Vigyél tovább, mint a lábam tudna menni.
+Taníts teljes hittel járni, jelenlétedben élni.
+
+
+---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
+
 
 
 ---
-Your grace abounds in deepest waters<br/>
-Your sovereign hand will be my guide<br/>
-Where feet may fail<br/>
- and fear surrounds me<br/>
-You've never failed <br/>
-and You won't start now
+Tied a dicsőség és imádás,<br />
+felemeljük kezeinket,<br />
+így dicsérjük szent Neved.
 
 ---
-So I will call upon Your name<br/>
-And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest<br/>
- in Your embrace<br/>
-For I am Yours and You are mine
+Ó Hatalmas,<br/>
+kezed nagy csodákat tesz,<br/>
+Veled senki nem ér fel,<br />
+Veled senki nem ér fel.
 
----
-Spirit lead me where my trust is without borders<br/>
-Let me walk upon the waters<br/>
-Wherever You would call me<br/>
-Take me deeper than my feet could ever wander<br/>
-And my faith will be made stronger<br/>
-in the presence of my Saviour
-
-
----
-And I will call upon Your name<br/>
-And keep my eyes above the waves<br/>
-When oceans rise, my soul will rest<br/>
- in Your embrace<br/>
-For I am Yours and You are mine
 
 
 
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
----
-Irgalmas Istenünk jóságát <br/>
-mindörökké éneklem.
-
-
----?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
 
 ---
@@ -202,9 +191,25 @@ I'll never know how much it cost<br/>
 to see my sin upon that cross
 
 
+---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
+
+Szent vagy, szent vagy, szent vagy,<br/>
+Mindenség Ura, Istene!<br/>
+Dicsőséged betölti a mennyet és a földet.<br/>
+Hozsanna a magasságban!<br/>
+Áldott, aki jön az Úr nevében,<br/>
+Hozsanna a magasságban!
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
+
+Isten Báránya, te elveszed a világ bűneit,<br/>
+Irgalmazz, irgalmazz nekünk!
+
+Isten Báránya, te elveszed a világ bűneit,<br/>
+Adj nekünk, adj nekünk békét!
+
+---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
 ---
 Uram Tehozzád futok, <br/>
@@ -232,24 +237,41 @@ Békémnek záloga, lelkemnek otthona.<br/>
 Formáld át életem, légy velem.
 
 
+---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
+
+---
+Indulj és menj, hirdesd szavam,<br/>
+népemhez küldelek én.<br/>
+Tövis és gaz, vér és panasz,<br/>
+meddig hallgassam még én.
+
+---
+Küldelek én, s megáldlak én,<br/>
+csak menj és hirdesd szavam!
+
+---
+Tüzessé teszem ajkaidat,<br/>
+gyémánttá homlokodat.<br/>
+Népemnek őrévé rendellek én<br/>
+Lelkemet adom melléd.
+
+
+
+
 
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
+
+
 
 
 ---
-Tied a dicsőség és imádás,<br />
-felemeljük kezeinket,<br />
-így dicsérjük szent Neved.
+Irgalmas Istenünk jóságát <br/>
+mindörökké éneklem.
 
----
-Ó Hatalmas,<br/>
-kezed nagy csodákat tesz,<br/>
-Veled senki nem ér fel,<br />
-Veled senki nem ér fel.
 
 
 ---
@@ -333,3 +355,54 @@ Ajkamról most hála dala száll,<br/>
 Maradj velem, úgy kérlek Jézus,<br/>
  maradj velem,<br/>
 Tied leszek, Neked élek már.
+
+
+
+
+
+
+---
+You call me out upon the waters<br/>
+The great unknown where feet may fail<br/>
+And there I find You in the mystery<br/>
+In oceans deep my faith will stand
+
+
+---
+And I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
+For I am Yours and You are mine
+
+
+---
+Your grace abounds in deepest waters<br/>
+Your sovereign hand will be my guide<br/>
+Where feet may fail<br/>
+ and fear surrounds me<br/>
+You've never failed <br/>
+and You won't start now
+
+---
+So I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
+For I am Yours and You are mine
+
+---
+Spirit lead me where my trust is without borders<br/>
+Let me walk upon the waters<br/>
+Wherever You would call me<br/>
+Take me deeper than my feet could ever wander<br/>
+And my faith will be made stronger<br/>
+in the presence of my Saviour
+
+
+---
+And I will call upon Your name<br/>
+And keep my eyes above the waves<br/>
+When oceans rise, my soul will rest<br/>
+ in Your embrace<br/>
+For I am Yours and You are mine
