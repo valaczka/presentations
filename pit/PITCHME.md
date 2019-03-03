@@ -234,6 +234,7 @@ Hozsanna a magasságban!
 
 ---?image=pit/kezek_feher.png&size=auto 75%&opacity=100
 
+---
 
 Isten Báránya, <br/>
 te elveszed a világ bűneit,<br/>
