@@ -115,6 +115,12 @@ A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** ad
 
 ---
 
+### A következő hetekben
+
+* Mindenkivel leülök személyes beszélgetésre
+
+---
+
 ### Bagó Péter
 
 ---
