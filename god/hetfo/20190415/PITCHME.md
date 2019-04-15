@@ -11,7 +11,7 @@ Nyitó kör
 
 ---
 
-@snap[north title]
+@snap[north-east title]
 Kedd
 @snapend
 
@@ -22,46 +22,41 @@ Kedd
 
 ---
 
-@snap[north title]
-Kedd
+@snap[north-east title]
+Egyéb információ
 @snapend
 
-- 12:00-ig: az osztályfilmek leadási határideje Erikának
-- 11.b kőművesek és ácsok Budapesten
-- **14:30-16:30 minden teamtag** számára orientációs műhely
+* Az új épületben le kellett zárnunk a mosdókat
+* A szivattyú javítás alatt van
 
 ---
 
-@snap[north title]
-Szerda
+@snap[north-east title]
+Következő tanév
 @snapend
 
-- 14:15-15:15 rövidített team ülés
-- **15:15-16:00 a teljes tantestület számára** találkozó a Kilátó szakembereivel az orientációs közös térben
-- 16:00-17:15 részletesebb szakmai munka
+* Májustól elindul a következő tanév tervezése, előkészítése
+* Cél: június 30-ig mindent úgy előkészíteni, hogy augusztus 20-ig pihenni tudjunk.
 
 ---
 
-
-@snap[north title]
-Csütörtök
+@snap[north-east title]
+Milyen legyen a jövő munkavállalója?
 @snapend
 
--       8:00-tól szalagavató próba
+A Business and Industry Advisory Committee (BIAC) to OECD a Business Priorities For Education1 (2016) című kiadvány négy jellemzőt nevez meg, melyeket elvárnak a munkáltatók a munkavállalóktól.
 
 ---
 
+@snap[north-east title]
+A jövő munkavállalója
+#snapend
 
-@snap[north title]
-Péntek
-@snapend
-
--        a végzősök számára nincs tanítás
--        15:00 szalagavató a templomban, majd koccintás a plébánián
-
----
-
-### Félévzárás
+### Legyen
+* sokoldalú,
+* képzett,
+* foglalkoztatható,
+* valamint tanulásra kész és hajlandó egész szakmai életútja során.
 
 ---
 
