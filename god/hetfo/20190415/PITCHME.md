@@ -40,19 +40,13 @@ Következő tanév
 
 ---
 
-@snap[north-east title]
-Milyen legyen a jövő munkavállalója?
-@snapend
+### Milyen legyen a jövő munkavállalója?
 
 A Business and Industry Advisory Committee (BIAC) to OECD a Business Priorities For Education1 (2016) című kiadvány négy jellemzőt nevez meg, melyeket elvárnak a munkáltatók a munkavállalóktól.
 
 ---
 
-@snap[north-east title]
-A jövő munkavállalója
-#snapend
-
-### Legyen
+### A jövő munkavállalója legyen
 * sokoldalú,
 * képzett,
 * foglalkoztatható,
