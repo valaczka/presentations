@@ -47,10 +47,38 @@ A Business and Industry Advisory Committee (BIAC) to OECD a Business Priorities 
 ---
 
 ### A jövő munkavállalója legyen
+
 * sokoldalú,
 * képzett,
 * foglalkoztatható,
 * valamint tanulásra kész és hajlandó egész szakmai életútja során.
+
+---
+
+### Innovációs szakképzési modellt kezdtünk el
+
+Kiemelt célja a gyermekek, fiatalok szükséges **kompetenciájának fejlesztése**, pályaorientációja, az **egyéni utak pedagógiáján** keresztül az eredményes **életpálya-kísérés**.
+
+Az előkészítő tanév tanulási tartalmainak meghatározásában kiemelt szerepe van tehát a 21. századi munkaerőpiaci elvárásoknak, valamint a várható, előrejelzett kompetencia szükségleteknek.
+
+A pedagógusok együttműködő tanulásának alapját a pedagógusteamek adják.
+
+---
+
+@snap[north-east title]
+2020-ra előre jelzett legkeresettebb munkavállalói készségek
+@snapend
+
+* komplex problémamegoldás
+* kritikus gondolkodás
+* kreativitás
+* a másik emberhez való kapcsolódás
+* együttműködés
+* érzelmi intelligencia
+* döntéshozatal
+* szolgáltatói szemlélet
+* tárgyalási készségek
+* rugalmas gondolkodás
 
 ---
 
