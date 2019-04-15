@@ -49,7 +49,7 @@ Következő tanév
 * sokoldalú
 * képzett
 * foglalkoztatható
-* valamint *tanulásra kész és hajlandó* egész szakmai életútja során
+* valamint **tanulásra kész és hajlandó** egész szakmai életútja során
 
 ---
 
@@ -87,7 +87,7 @@ Legkeresettebb munkavállalói készségek
 * sokoldalúak
 * képzettek
 * foglalkoztathatók
-* valamint *tanulásra készek és hajlandók* egész szakmai életútjuk során
+* valamint **tanulásra készek és hajlandók** egész szakmai életútjuk során
 
 ---
 
@@ -103,6 +103,11 @@ A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** ad
 
 ---
 
+### Május 3-tól új struktúra
+
+* Mindenki teamben fog dolgozni
+* A munkaidő nem a kontakt órákra korlátozódik:
+  * heti 40 óra, ebből 32 az intézményben
 
 
 ## Szép hetet mindenkinek!
