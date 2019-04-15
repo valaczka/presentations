@@ -108,6 +108,19 @@ A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** ad
 * Mindenki teamben fog dolgozni
 * A munkaidő nem a kontakt órákra korlátozódik:
   * heti 40 óra, ebből 32 az intézményben
+  * team munka
+  * tervezés
+  * képződés (tanulás)
+  * szervezetfejlesztés
 
+---
+
+### Bagó Péter
+
+---
+
+### Lázár László
+
+---
 
 ## Szép hetet mindenkinek!
