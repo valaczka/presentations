@@ -78,6 +78,10 @@ Legkeresettebb munkavállalói készségek
 
 ---
 
+### Lázár László
+
+---
+
 ### Milyennek kell ehhez lennünk most Gödön?
 
 ---
@@ -123,9 +127,6 @@ A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** ad
 
 ### Bagó Péter
 
----
-
-### Lázár László
 
 ---
 
