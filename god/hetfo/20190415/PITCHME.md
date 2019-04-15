@@ -42,16 +42,14 @@ Következő tanév
 
 ### Milyen legyen a jövő munkavállalója?
 
-A Business and Industry Advisory Committee (BIAC) to OECD a Business Priorities For Education1 (2016) című kiadvány négy jellemzőt nevez meg, melyeket elvárnak a munkáltatók a munkavállalóktól.
-
 ---
 
 ### A jövő munkavállalója legyen
 
-* sokoldalú,
-* képzett,
-* foglalkoztatható,
-* valamint tanulásra kész és hajlandó egész szakmai életútja során.
+* sokoldalú
+* képzett
+* foglalkoztatható
+* valamint *tanulásra kész és hajlandó* egész szakmai életútja során
 
 ---
 
@@ -59,14 +57,12 @@ A Business and Industry Advisory Committee (BIAC) to OECD a Business Priorities 
 
 Kiemelt célja a gyermekek, fiatalok szükséges **kompetenciájának fejlesztése**, pályaorientációja, az **egyéni utak pedagógiáján** keresztül az eredményes **életpálya-kísérés**.
 
-Az előkészítő tanév tanulási tartalmainak meghatározásában kiemelt szerepe van tehát a 21. századi munkaerőpiaci elvárásoknak, valamint a várható, előrejelzett kompetencia szükségleteknek.
-
-A pedagógusok együttműködő tanulásának alapját a pedagógusteamek adják.
+A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** adják.
 
 ---
 
 @snap[north-east title]
-2020-ra előre jelzett legkeresettebb munkavállalói készségek
+Legkeresettebb munkavállalói készségek
 @snapend
 
 * komplex problémamegoldás
@@ -81,5 +77,32 @@ A pedagógusok együttműködő tanulásának alapját a pedagógusteamek adják
 * rugalmas gondolkodás
 
 ---
+
+### Milyennek kell ehhez lennünk most Gödön?
+
+---
+
+### A gödi nevelő közösség tagjai legyenek
+
+* sokoldalúak
+* képzettek
+* foglalkoztathatók
+* valamint *tanulásra készek és hajlandók* egész szakmai életútjuk során
+
+---
+
+### Hogyan épül fel a következő tanév?
+
+---
+
+### A gödi intézmény célja
+
+A gyermekek, fiatalok szükséges **kompetenciájának fejlesztése**, pályaorientációja, az **egyéni utak pedagógiáján** keresztül az eredményes **életpálya-kísérés**.
+
+A pedagógusok együttműködő tanulásának alapját a **pedagógusteamek** adják.
+
+---
+
+
 
 ## Szép hetet mindenkinek!
